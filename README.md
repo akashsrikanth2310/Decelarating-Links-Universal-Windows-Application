@@ -4,5 +4,5 @@ This is an universal windows application for an App that disables all communicat
 
 The vedio below explains the entire work model of the Universal Windows Application. The major concept is that we figure out the speed at which the user is travelling at and based on that data we decide on how quickly or slowly they are moving.
 
-![Alt text](https://github.com/akashsrikanth2310/Decelarating-Links-Universal-Windows-Application/blob/master/VIDEO0124%5B1%5D_CLIPCHAMP_720p.mp4)
+![Alt text](https://www.youtube.com/watch?v=Le7FF_ah-XE&feature=youtu.be)
 
